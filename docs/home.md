@@ -29,7 +29,7 @@ U need add this scripts
 ```html
 <div class="captcha-code"></div> <!-- ACCES API FOR CAPTCHA (ANTI IFRAME)  NEED -->
 <div id="captcha-element"></div> <!-- Here will be captcha -->
-<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="websitelink"></script> <!-- Import captcha WARNING EDIT acceskey to u website url -->
+<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="oneapikeyfreeacces"></script> <!-- Import captcha -->
 ```
 
 Done captcha added!
@@ -45,7 +45,7 @@ Importing captcha
 ```html
 <div class="captcha-code"></div> <!-- ACCES API FOR CAPTCHA (ANTI IFRAME)  NEED -->
 <div id="captcha-element"></div> <!-- Here will be captcha -->
-<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="websitelink"></script> <!-- Import captcha WARNING EDIT acceskey to u website url -->
+<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="oneapikeyfreeacces"></script> <!-- Import captcha -->
 <button id="demo" onclick="checkcaptcha()">Verify.</button>
 ```
 Adding a example function and check
@@ -82,4 +82,4 @@ If u want to see captcha (without function like redirect to other page if done) 
 
 <div class="captcha-code"></div>
 <div id="captcha-element"></div>
-<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="pythoniaweb.github.io/oneclick/#"></script>
+<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="oneapikeyfreeacces"></script>
