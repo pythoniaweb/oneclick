@@ -52,7 +52,7 @@ Adding a example function and check
 ```html
 <div class="captcha-code"></div> <!-- ACCES API FOR CAPTCHA (ANTI IFRAME)  NEED -->
 <div id="captcha-element"></div> <!-- Here will be captcha -->
-<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="websitelink"></script> <!-- Import captcha WARNING EDIT acceskey to u website url -->
+<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="oneapikeyfreeacces"></script> <!-- Import captcha -->
 <button id="demo" onclick="checkcaptcha()">Verify.</button>
 
 <script>
