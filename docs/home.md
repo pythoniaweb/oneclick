@@ -82,4 +82,4 @@ If u want to see captcha (without function like redirect to other page if done) 
 
 <div class="captcha-code"></div>
 <div id="captcha-element"></div>
-<script src="https://oneclick-2.sdddddddada.repl.co/script.js" id="1click" accesskey="oneapikeyfreeacces"></script>
+<script src="https://oneclick-2.sdddddddada.repl.co/special.js" id="1click" accesskey="oneapikeyfreeacces"></script>
